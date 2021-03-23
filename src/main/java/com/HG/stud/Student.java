@@ -15,7 +15,7 @@ public class Student {
         this.english= english;
         this.math=math;
     }
-public void print(){
-    System.out.println(id+"\t"+name+"\t"+english+"\t"+math);
+    public void print(){
+        System.out.println(id+"\t"+name+"\t"+english+"\t"+math);
     }
 }
