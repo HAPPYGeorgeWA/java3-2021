@@ -6,7 +6,7 @@ public class Tester {
 
     System.out.println(customer.id+"\t"+customer.amount+"\t"+customer.getTotal());
 
-    SilverCustomer AmeliaWatson = new SilverCustomer("AmeliaWAtson",9000);
+    SilverCustomer AmeliaWatson = new SilverCustomer("AmeliaWatson",9000);
 
     System.out.println(AmeliaWatson.id+"\t"+AmeliaWatson.amount+"\t"+AmeliaWatson.getTotal());
     }

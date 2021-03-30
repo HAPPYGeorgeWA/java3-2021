@@ -1,6 +1,6 @@
 package com.HG.stud;
 
-public class GraduateStudent extends Student{
+public class GraduateStudent extends Student implements Gura{
     int thesis;
     public GraduateStudent(String id ,String name,int english ,int math,int thesis ){
 
@@ -8,5 +8,7 @@ public class GraduateStudent extends Student{
 
         this.thesis=thesis;
     }
-
+    public void mail() {
+        //shark !!!!
+    }
 }

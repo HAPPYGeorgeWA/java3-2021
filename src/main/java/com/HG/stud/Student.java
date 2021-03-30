@@ -1,6 +1,6 @@
 package com.HG.stud;
 
-public class Student {
+public  class Student {
     String id;
     String name;
     int english;
@@ -18,4 +18,5 @@ public class Student {
     public void print(){
         System.out.println(id+"\t"+name+"\t"+english+"\t"+math);
     }
+
 }
