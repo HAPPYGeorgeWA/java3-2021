@@ -1,11 +1,11 @@
 package com.HG.Package;
 
-public class Box3 extends Package {
+public class Box3 extends Box {
     public Box3() {
 
-        int length = 10;
-        int width = 10;
-        int height = 10;
+        length = 10;
+        width = 10;
+        height = 10;
     }
 
     @Override
@@ -14,7 +14,7 @@ public class Box3 extends Package {
 
     }
     @Override
-    public String getPrice(){
+    public int getPrice(){
         return 60;
     }
 
