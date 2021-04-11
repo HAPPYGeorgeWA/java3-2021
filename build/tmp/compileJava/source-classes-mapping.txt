@@ -20,7 +20,7 @@ com/HG/List.java
  com.HG.List
 com/HG/Package/Box.java
  com.HG.Package.Box
-com/HG/Package/Box3.java
- com.HG.Package.Box3
 com/HG/Package/Tester.java
  com.HG.Package.Tester
+com/HG/Package/Box3.java
+ com.HG.Package.Box3
