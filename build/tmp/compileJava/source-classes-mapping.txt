@@ -24,6 +24,8 @@ com/HG/Package/Box3.java
  com.HG.Package.Box3
 com/HG/Package/Tester.java
  com.HG.Package.Tester
+com/HG/Racing/HorseRunnable.java
+ com.HG.Racing.HorseRunnable
 com/HG/Racing/Racing.java
  com.HG.Racing.Racing
 com/HG/Racing/Horse.java
