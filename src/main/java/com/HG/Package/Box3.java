@@ -13,10 +13,9 @@ public class Box3 extends Box {
         return "Box3";
 
     }
+
     @Override
-    public int getPrice(){
+    public int getPrice() {
         return 60;
     }
-
-
 }
