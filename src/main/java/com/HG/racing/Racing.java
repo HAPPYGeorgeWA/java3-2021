@@ -1,4 +1,4 @@
-package com.HG.Racing;
+package com.HG.racing;
 
 public class Racing {
     public static void main(String[] args) {
