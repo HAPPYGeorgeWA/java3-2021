@@ -1,5 +1,3 @@
-com/HG/Package/Box.java
- com.HG.Package.Box
 com/HG/stud/Gura.java
  com.HG.stud.Gura
 com/test/Box1.java
@@ -10,37 +8,39 @@ com/HG/cust/SilverCustomer.java
  com.HG.cust.SilverCustomer
 com/HG/stud/Tester.java
  com.HG.stud.Tester
-com/HG/Racing/HorseRunnable.java
- com.HG.Racing.HorseRunnable
+com/HG/racing/Racing.java
+ com.HG.racing.Racing
 com/HG/cust/Customer.java
  com.HG.cust.Customer
 com/HG/stud/Employee.java
  com.HG.stud.Employee
 com/test/Box.java
  com.test.Box
-com/HG/Racing/Racing.java
- com.HG.Racing.Racing
-com/HG/Package/Box3.java
- com.HG.Package.Box3
+com/HG/box/Box3.java
+ com.HG.box.Box3
+com/test/Tester.java
+ com.test.Tester
 com/HG/Customer.java
  com.HG.Customer
+com/HG/racing/HorseRunnable.java
+ com.HG.racing.HorseRunnable
+com/HG/box/Tester.java
+ com.HG.box.Tester
 com/HG/stud/GraduateStudent.java
  com.HG.stud.GraduateStudent
 com/HG/cust/Tester.java
  com.HG.cust.Tester
+com/HG/racing/Horse.java
+ com.HG.racing.Horse
 com/test/Box2.java
  com.test.Box2
 com/HG/stud/Student.java
  com.HG.stud.Student
-com/HG/Package/Tester.java
- com.HG.Package.Tester
-com/HG/Racing/Horse.java
- com.HG.Racing.Horse
-com/HG/List.java
- com.HG.List
 com/test/Box5.java
  com.test.Box5
+com/HG/box/Box.java
+ com.HG.box.Box
+com/HG/List.java
+ com.HG.List
 com/test/Box3.java
  com.test.Box3
-com/test/Tester.java
- com.test.Tester

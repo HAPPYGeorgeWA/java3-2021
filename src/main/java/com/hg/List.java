@@ -1,4 +1,4 @@
-package com.HG;
+package com.hg;
 
 public class List {
     public static void main(String[] args) {

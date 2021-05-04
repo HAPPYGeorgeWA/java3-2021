@@ -1,4 +1,4 @@
-package com.HG;
+package com.hg;
 
 public class Customer {
 

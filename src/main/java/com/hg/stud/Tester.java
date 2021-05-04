@@ -1,4 +1,4 @@
-package com.HG.stud;
+package com.hg.stud;
 
 public class Tester {
     public static void main(String[] args) {

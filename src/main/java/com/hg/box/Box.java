@@ -1,4 +1,4 @@
-package com.HG.box;
+package com.hg.box;
 
 public abstract class Box {
     int length;

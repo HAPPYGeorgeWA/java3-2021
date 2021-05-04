@@ -1,4 +1,4 @@
-package com.HG.stud;
+package com.hg.stud;
 
 public class Employee {
 

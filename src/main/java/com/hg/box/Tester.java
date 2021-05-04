@@ -1,4 +1,4 @@
-package com.HG.box;
+package com.hg.box;
 
 import java.util.Scanner;
 

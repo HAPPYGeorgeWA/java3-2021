@@ -1,4 +1,4 @@
-package com.HG.box;
+package com.hg.box;
 
 public class Box3 extends Box {
     public Box3() {

@@ -1,4 +1,4 @@
-package com.HG.racing;
+package com.hg.racing;
 
 public class HorseRunnable implements Runnable{
     @Override
