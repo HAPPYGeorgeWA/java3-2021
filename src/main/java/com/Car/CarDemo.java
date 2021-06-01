@@ -7,6 +7,10 @@ public class CarDemo {
     private JTextField textField1;
     private JButton button1;
     private JPanel northPanel;
+    private JPanel westPanel;
+    private JTextField textField2;
+    private JButton button2;
+    String name;
 
     public static void main(String[] args) {
         JFrame frame = new JFrame();

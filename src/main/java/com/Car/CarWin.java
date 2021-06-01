@@ -1,7 +1,5 @@
 package com.Car;
 
-
-
 import javax.swing.*;
 
 public class CarWin {
