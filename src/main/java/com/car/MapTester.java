@@ -1,4 +1,4 @@
-package com.Car;
+package com.car;
 
 public class MapTester {
 }

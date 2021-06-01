@@ -1,4 +1,4 @@
-package com.Car;
+package com.car;
 
 import java.util.Date;
 import java.util.HashMap;
