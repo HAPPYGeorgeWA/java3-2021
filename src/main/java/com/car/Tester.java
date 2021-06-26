@@ -10,7 +10,7 @@ public class Tester {
         Map<String, Car> cars = new HashMap<>();
         Car c1 = new Car("weq-123", "07:30");
         Car c2 = new Car("val-123", "09:45");
-        Car c3 = new Car("ghi-123", "10:30");
+        Car c3 = new Car("ghi-123", "10:31");
         cars.put(c1.id, c1);
         cars.put(c2.id, c2);
         cars.put(c3.id, c3);
