@@ -4,10 +4,10 @@ public class User {
     private String name;
     private String account;
     private int password;
-    private double balance;
+    private int balance;
 
 
-   public User(String name,String account, int password,  double balance) {
+   public User(String name,String account, int password,  int balance) {
        this.name = name;
         this.password = password;
         this.account = account;
@@ -38,11 +38,11 @@ public class User {
         this.account = account;
     }
 
-    public double getBalance(){
+    public int getBalance(){
         return balance;
     }
 
-    public void setBalance(double balance){
+    public void setBalance(int balance){
         this.balance = balance;
     }
 

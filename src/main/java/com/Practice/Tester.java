@@ -16,7 +16,7 @@ public class Tester {
             System.out.println("Welcome, "+user.getName());
             bank.menu();
         }else{
-            System.out.println("Error");
+            System.out.println("Error,The debit Card has been withdrawn, please take it back");
         }
     }
 }
